@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "am10.AutoLayout" ],
+             "components": [
+               {
+                  "/": "/test/*",
+                  "comment": "ドメイン直下が「/test/」から始まる時、発動します！"
+               }
+             ]
+           }
+       ]
+   }
+}
